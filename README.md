@@ -1,5 +1,3 @@
----
-
 # 🚗 Light-Guided Autonomous Car
 
 **Solo Embedded Systems Project | Arduino, C++, Sensors, 3D Printing, Hardware Integration**
